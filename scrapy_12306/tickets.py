@@ -1,4 +1,4 @@
-# 12306 查票程序
+# 12306 余票查询程序
 import requests
 from stations import stations
 from colorama import init, Fore
